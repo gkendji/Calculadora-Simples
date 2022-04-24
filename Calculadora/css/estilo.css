@@ -1,0 +1,111 @@
+#corpo{
+    width: 350px;
+    height: 530px;
+    background-color: #3d3de3;
+    border-radius: 10px;
+    border-color: black;
+    margin: auto;
+
+}
+
+#resultado{
+    width: 295px;
+    height: 80px;
+    margin-top: 30px;
+    margin-left: 22px;
+    text-align: right;
+    font-size: 40px;
+    border-radius: 10px;
+    border-color: black;
+    background-color: rgb(237, 233, 228); 
+}
+
+#numerico{
+    padding-top:22px;
+    margin:auto;
+}
+
+.linha{
+    width: 295px;
+    height: 70px;
+    padding-top: 5px;
+    margin:auto;
+}
+
+#linha1{
+    width: 220px;
+    height: 70px;
+    margin:auto;
+    float:left;
+    margin-left: 27px;
+    padding-top: 5px;
+}
+
+#linha2{
+    width: 220px;
+    height: 70px;
+    margin-left:27px;
+    float:left;
+    clear:both;
+    padding-top: 5px;
+}
+
+#duasUltimasLinhas{
+    width: 350px;
+    margin: auto;
+
+}
+
+.botao{
+    width: 70px;
+    height: 70px;
+    border-radius: 10px;
+    background-color: lightgrey;
+    border-color: black;
+    font-size: 20px;
+}
+
+.botao:hover{
+    background-color: rgb(193, 194, 195);
+}
+
+.botaoC{
+    width: 145px;
+    height: 70px;
+    border-radius: 10px;
+    background-color: lightgrey;
+    border-color: black;
+    font-size: 20px;
+}
+
+.botaoC:hover{
+    background-color: rgb(193, 194, 195);
+}
+
+.botaoIgual{
+    width:70px;
+    height:145px;
+    border-radius: 10px;
+    background-color: lightgrey;
+    margin-left: 3px;
+    margin-top: 5px;
+    border-color: black;
+    font-size: 20px;
+}
+
+.botaoIgual:hover{
+    background-color: rgb(193, 194, 195);
+}
+
+.botao0{
+    width: 145px;
+    height: 70px;
+    border-radius: 10px;
+    background-color: lightgrey;
+    border-color: black;
+    font-size: 20px;
+}
+
+.botao0:hover{
+    background-color: rgb(193, 194, 195);
+}
